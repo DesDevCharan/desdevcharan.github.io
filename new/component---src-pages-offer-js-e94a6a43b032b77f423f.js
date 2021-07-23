@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[51],{1485:function(e,t,a){"use strict";a.r(t);var r=a(7294),l=a(5444),n=a(967),f=a(3751);t.default=function(){return r.createElement(n.Z,null,r.createElement(f.Z,{title:"My Offer"}),r.createElement("h1",null,"Hi from the offer page"),r.createElement(l.Link,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-offer-js-e94a6a43b032b77f423f.js.map

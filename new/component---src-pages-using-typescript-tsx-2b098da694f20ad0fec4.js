@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[970],{2815:function(e,t,a){"use strict";a.r(t);var r=a(7294),l=a(5444),n=a(967),u=a(3751);t.default=function(e){e.data,e.path;return r.createElement(n.Z,null,r.createElement(u.Z,{title:"Using TypeScript"}),r.createElement("h1",null,"Gatsby supports TypeScript by default!"),r.createElement(l.Link,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-using-typescript-tsx-2b098da694f20ad0fec4.js.map
